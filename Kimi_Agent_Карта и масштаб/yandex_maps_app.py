@@ -20,7 +20,7 @@ from PyQt6.QtCore import Qt, QTimer, pyqtSignal
 
 # API ключи
 API_KEY_STATIC = 'f3a0fe3a-b07e-4840-a1da-06f18b2ddf13'
-API_KEY_GEOCODER = 'f3a0fe3a-b07e-4840-a1da-06f18b2ddf13'  # Тот же ключ для геокодера
+API_KEY_GEOCODER = '8013b162-6b42-4997-9691-77b7074026e0'  # Тот же ключ для геокодера
 API_KEY_SEARCH = 'f3a0fe3a-b07e-4840-a1da-06f18b2ddf13'  # Для поиска организаций
 
 # URL API
